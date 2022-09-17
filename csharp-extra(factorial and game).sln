@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp-extra(factorial and game)", "csharp-extra(factorial and game).csproj", "{45BBBFF0-EF94-4F4F-8B1F-3109BFF1986D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45BBBFF0-EF94-4F4F-8B1F-3109BFF1986D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45BBBFF0-EF94-4F4F-8B1F-3109BFF1986D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45BBBFF0-EF94-4F4F-8B1F-3109BFF1986D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45BBBFF0-EF94-4F4F-8B1F-3109BFF1986D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {141FB853-137C-4813-BFBA-CB5D9AA4CA7C}
+	EndGlobalSection
+EndGlobal
